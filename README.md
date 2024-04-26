@@ -23,15 +23,15 @@ Salida: 0.5
 ### 2. Ecualización de una imagen
 Entrada:
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img.jpg" alt="demo" height="605">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img.jpg">
 </div>
 
 Salida con GPU:  
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_gpu.jpg" alt="demo" height="605">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_gpu.jpg">
 </div>
 
 Salida con Python:  
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_python.jpg)" alt="demo" height="605">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_python.jpg" alt="demo" height="605">
 </div>
