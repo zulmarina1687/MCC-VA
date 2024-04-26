@@ -33,5 +33,5 @@ Salida con GPU:
 
 Salida con Python:  
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_python.jpg" alt="demo" height="605">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_python.jpg">
 </div>
