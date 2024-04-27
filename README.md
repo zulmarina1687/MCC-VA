@@ -77,7 +77,6 @@ Entrada:
 </div>
 
 Salida con GPU:
-Suma de imágenes 
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/tigre_conv_gpu.jpg" width="567" height="369">
 </div>
