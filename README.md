@@ -8,8 +8,7 @@
 - Implementar en GPU las siguientes operaciones Globales.
   - Modificar el brillo y contraste - Gamma Correction
   - Ecualización de una imagen
-  - Una operación aritmética (Ejm: Suma de imágenes)
-  - Las operaciones lógicas (Ejm: AND u OR)
+  - Operación Aritmética (Ejm: Suma de imágenes)
   - Convolucion
  
 ### 1. Modificar el brillo y contraste - Gamma Correction
@@ -44,4 +43,29 @@ Salida con GPU:
 Salida con Python:  
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_python.jpg">
+</div>
+
+### 2. Operación Aritmética (Ejm: Suma de imágenes)
+Entrada:
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/leon.jpg">
+</div>
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza.jpg">
+</div>
+
+Salida con GPU:
+Suma de imágenes 
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add_gpu.jpg">
+</div>
+
+Salida con Python: 
+Suma de imágenes 
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add.jpg">
+</div>
+Resta de imágenes 
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_sub.jpg">
 </div>
