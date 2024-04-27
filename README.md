@@ -48,24 +48,24 @@ Salida con Python:
 ### 2. Operación Aritmética (Ejm: Suma de imágenes)
 Entrada:
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/leon.jpg" width="540" height="800">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/leon.jpg" width="800" height="540">
 </div>
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza.jpg" width="800" height="540">
 </div>
 
 Salida con GPU:
 Suma de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add_gpu.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add_gpu.jpg" width="800" height="540">
 </div>
 
 Salida con Python: 
 Suma de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add.jpg" width="800" height="540">
 </div>
 Resta de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_sub.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_sub.jpg" width="800" height="540">
 </div>
