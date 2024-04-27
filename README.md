@@ -45,7 +45,7 @@ Salida con Python:
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_python.jpg">
 </div>
 
-### 2. Operación Aritmética (Ejm: Suma de imágenes)
+### 3. Operación Aritmética (Ejm: Suma de imágenes)
 Entrada:
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/leon.jpg" width="780" height="500">
@@ -68,4 +68,16 @@ Suma de imágenes
 Resta de imágenes 
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_sub.jpg" width="780" height="500">
+</div>
+
+### 4. Convolucion
+Entrada:
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/tigre.jpg" width="567" height="369">
+</div>
+
+Salida con GPU:
+Suma de imágenes 
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/tigre_conv_gpu.jpg" width="567" height="369">
 </div>
