@@ -6,19 +6,29 @@
 
 ## Preliminares
 - Implementar en GPU las siguientes operaciones Globales.
-  - Operador Gama
+  - Modificar el brillo y contraste - Gamma Correction
   - Ecualización de una imagen
   - Una operación aritmética (Ejm: Suma de imágenes)
   - Las operaciones lógicas (Ejm: AND u OR)
   - Convolucion
  
-### 1. Operador Gama
+### 1. Modificar el brillo y contraste - Gamma Correction
 Entrada:
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image.jpg">
+</div>
 
-Salida: 3 
- 
-Salida: 0.5                                                                  
-  
+Salida: 0.6 - GPU 
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_gpu.jpg">
+</div>
+Salida: 0.6 - Python                                                                  
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python1.jpg">
+</div>
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python2.jpg">
+</div>
   
 ### 2. Ecualización de una imagen
 Entrada:
