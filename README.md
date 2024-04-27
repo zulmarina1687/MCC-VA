@@ -14,19 +14,19 @@
 ### 1. Modificar el brillo y contraste - Gamma Correction
 Entrada:
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image.jpg" width="512" height="695" >
 </div>
 
 Salida: 0.6 - GPU 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_gpu.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_gpu.jpg" width="512" height="695">
 </div>
 Salida: 0.6 - Python                                                                  
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python1.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python1.jpg" width="512" height="695">
 </div>
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python2.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python2.jpg" width="512" height="695">
 </div>
   
 ### 2. Ecualización de una imagen
@@ -48,7 +48,7 @@ Salida con Python:
 ### 2. Operación Aritmética (Ejm: Suma de imágenes)
 Entrada:
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/leon.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/leon.jpg" width="540" height="800">
 </div>
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza.jpg">
