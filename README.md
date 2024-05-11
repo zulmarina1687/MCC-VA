@@ -13,7 +13,7 @@
   - 
  
 ### 1. Modificar el brillo y contraste - Gamma Correction
-- Para ejecutar ir a este [Link]([https://colab.research.google.com/drive/175jk0dhvUKP6SX6UNTuzkKR1zUwScu5_#scrollTo=gA6KhQZEFoxl](https://github.com/zulmarina1687/MCC-VA/blob/main/Lab1_Gamma.ipynb))
+- Para ejecutar ir a este [Link Colab](/Lab1_Gamma.ipynb)
 
 Entrada:
 <div>
