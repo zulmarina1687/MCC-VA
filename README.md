@@ -10,10 +10,10 @@
   - Ecualización de una imagen
   - Operación Aritmética (Ejm: Suma de imágenes)
   - Convolución
-  - 
+  - Template Matching
  
 ### 1. Modificar el brillo y contraste - Gamma Correction
-- Para verificar el código ir a este [Link](/Lab1_Gamma.ipynb)
+- Para verificar el código ir a este [Link Colab](/Lab1_Gamma.ipynb)
 
 Entrada:
 <div>
@@ -30,25 +30,25 @@ Salida: 0.6 - Python
 </div>
   
 ### 2. Ecualización de una imagen
-- Para verificar el código ir a este [Link](/Lab1_Equalized.ipynb)
+- Para verificar el código ir a este [Link Colab](/Lab1_Equalized.ipynb)
 
 Entrada:
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img.jpg" width="540" height="325">
 </div>
 
 Salida con GPU:  
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_gpu.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_gpu.jpg" width="540" height="325">
 </div>
 
 Salida con Python:  
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_python.jpg">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_python.jpg" width="540" height="325">
 </div>
 
 ### 3. Operación Aritmética (Ejm: Suma y Resta de imágenes)
-- Para verificar el código ir a este [Link](/Lab1_AddSubImage.ipynb)
+- Para verificar el código ir a este [Link Colab](/Lab1_AddSubImage.ipynb)
 
 Entrada:
 <div>
@@ -78,13 +78,25 @@ Salida con Python: Resta de imágenes
 </div>
 
 ### 4. Convolucion
-- Para verificar el código ir a este [Link](/Lab1_AddSubImage.ipynb)
+- Para verificar el código ir a este [Link Colab](/Lab1_Convolution.ipynb)
 Entrada:
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/pikachu.jpg" width="300" height="300">
 </div>
 
 Salida con GPU:
+- Sobel
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/tigre_conv_gpu.jpg" width="567" height="369">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/pikachu_Sobelx_gpu.jpg" width="300" height="300">
+</div>
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/pikachu_Sobely_gpu.jpg" width="300" height="300">
+</div>
+- Perfilado
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/pikachu_Perfilado_gpu.jpg" width="300" height="300">
+</div>
+- Filtro Gaussiano
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/pikachu_FiltroGaussiano_gpu.jpg" width="300" height="300">
 </div>
