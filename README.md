@@ -66,11 +66,11 @@ Salida con GPU: Resta de imágenes
 
 Salida con Python: Suma de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add.jpg" width="780" height="540">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plazaR_add.jpg" width="780" height="540">
 </div>
 Salida con Python: Resta de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_sub.jpg" width="780" height="500">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plazaR_sub.jpg" width="780" height="500">
 </div>
 
 ### 4. Convolucion
