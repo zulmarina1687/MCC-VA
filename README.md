@@ -54,18 +54,21 @@ Entrada:
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza.jpg" width="780" height="500">
 </div>
 
-Salida con GPU:
-Suma de imágenes 
+Salida con GPU: Suma de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add_gpu.jpg" width="780" height="500">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add_gpu2.jpg" width="780" height="500">
 </div>
 
-Salida con Python: 
-Suma de imágenes 
+Salida con GPU: Resta de imágenes 
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_sub_gpu.jpg" width="780" height="500">
+</div>
+
+Salida con Python: Suma de imágenes 
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add.jpg" width="780" height="540">
 </div>
-Resta de imágenes 
+Salida con Python: Resta de imágenes 
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_sub.jpg" width="780" height="500">
 </div>
