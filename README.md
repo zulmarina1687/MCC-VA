@@ -100,3 +100,22 @@ Salida con GPU:
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/pikachu_FiltroGaussiano_gpu.jpg" width="300" height="300">
 </div>
+
+### 4. Template Matching
+- Para verificar el código ir a este [Link Colab](/Lab2_TemplateMatching.ipynb)
+Entrada:
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/fotogrupal.jpg" width="1024" height="683">
+</div>
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/face.jpg">
+</div>
+
+Salida GPU:
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/fotogrupal_gray_gpu.jpg" width="1024" height="683">
+</div>
+<div>
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/fotogrupal_color_gpu.jpg" width="1024" height="683">
+</div>
+
