@@ -4,14 +4,17 @@
 - Pilco Pancca, Luz Marina
 - Sejje Condori, Erika
 
-## Preliminares
-- Implementar en GPU las siguientes operaciones Globales.
+## Algoritmos
+- Implementar en GPU las siguientes operaciones.
   - Modificar el brillo y contraste - Gamma Correction
   - Ecualización de una imagen
   - Operación Aritmética (Ejm: Suma de imágenes)
   - Convolucion
+  - 
  
 ### 1. Modificar el brillo y contraste - Gamma Correction
+- Para ejecutar ir a este [Link]([https://colab.research.google.com/drive/175jk0dhvUKP6SX6UNTuzkKR1zUwScu5_#scrollTo=gA6KhQZEFoxl](https://github.com/zulmarina1687/MCC-VA/blob/main/Lab1_Gamma.ipynb))
+
 Entrada:
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image.jpg" width="512" height="695" >
@@ -22,9 +25,6 @@ Salida: 0.6 - GPU
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_gpu.jpg" width="512" height="695">
 </div>
 Salida: 0.6 - Python                                                                  
-<div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python1.jpg" width="512" height="695">
-</div>
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python2.jpg" width="512" height="695">
 </div>
