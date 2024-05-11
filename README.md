@@ -79,6 +79,7 @@ Salida con Python: Resta de imágenes
 
 ### 4. Convolucion
 - Para verificar el código ir a este [Link Colab](/Lab1_Convolution.ipynb)
+
 Entrada:
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/pikachu.jpg" width="300" height="300">
@@ -103,6 +104,7 @@ Salida con GPU:
 
 ### 4. Template Matching
 - Para verificar el código ir a este [Link Colab](/Lab2_TemplateMatching.ipynb)
+
 Entrada:
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/fotogrupal.jpg" width="1024" height="683">
