@@ -9,27 +9,29 @@
   - Modificar el brillo y contraste - Gamma Correction
   - Ecualización de una imagen
   - Operación Aritmética (Ejm: Suma de imágenes)
-  - Convolucion
+  - Convolución
   - 
  
 ### 1. Modificar el brillo y contraste - Gamma Correction
-- Para ejecutar ir a este [Link Colab](/Lab1_Gamma.ipynb)
+- Para verificar el código ir a este [Link](/Lab1_Gamma.ipynb)
 
 Entrada:
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image.jpg" width="512" height="695" >
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image.jpg" width="312" height="495" >
 </div>
 
 Salida: 0.6 - GPU 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_gpu.jpg" width="512" height="695">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_gpu.jpg" width="312" height="495">
 </div>
 Salida: 0.6 - Python                                                                  
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python2.jpg" width="512" height="695">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/image_gamma_python2.jpg" width="312" height="495">
 </div>
   
 ### 2. Ecualización de una imagen
+- Para verificar el código ir a este [Link](/Lab1_Equalized.ipynb)
+
 Entrada:
 <div>
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img.jpg">
@@ -45,38 +47,41 @@ Salida con Python:
   <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/img_equalized_python.jpg">
 </div>
 
-### 3. Operación Aritmética (Ejm: Suma de imágenes)
+### 3. Operación Aritmética (Ejm: Suma y Resta de imágenes)
+- Para verificar el código ir a este [Link](/Lab1_AddSubImage.ipynb)
+
 Entrada:
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/leon.jpg" width="780" height="500">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/leon.jpg" width="680" height="400">
 </div>
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza.jpg" width="780" height="500">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza.jpg" width="680" height="400">
 </div>
 
 Salida con GPU: Suma de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add_gpu2.jpg" width="780" height="500">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_add_gpu2.jpg" width="680" height="400">
 </div>
 
 Salida con GPU: Resta de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_sub_gpu.jpg" width="780" height="500">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plaza_sub_gpu.jpg" width="680" height="400">
 </div>
 
 Salida con Python: Suma de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plazaR_add.jpg" width="780" height="540">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plazaR_add.jpg" width="680" height="400">
 </div>
 Salida con Python: Resta de imágenes 
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plazaR_sub.jpg" width="780" height="500">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/plazaR_sub.jpg" width="680" height="400">
 </div>
 
 ### 4. Convolucion
+- Para verificar el código ir a este [Link](/Lab1_AddSubImage.ipynb)
 Entrada:
 <div>
-  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/tigre.jpg" width="567" height="369">
+  <img src="https://github.com/zulmarina1687/MCC-VA/blob/main/Resultados/pikachu.jpg" width="300" height="300">
 </div>
 
 Salida con GPU:
